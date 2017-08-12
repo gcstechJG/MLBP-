@@ -1,0 +1,22 @@
+*.fig
+*.asv
+*.zip
+*.ini
+*.xmi
+*.prefs
+*.resources
+*.index
+*.pdf
+@nnTrainingCamp/Neural Network Related pdf files/KalmanFilterInitialDesign.pptx
+nnTestingGround/~$MLResearchProjectPlanVer004.xlsx
+@CyclesExtraction/CyclesDB_10242015/FeatureSet-2017-03-03_03-34-26-094.mat
+@CyclesExtraction/
+wfdb-app-toolbox-0-9-9/
+MLBP_algorithm.rpt
+buildmagic_square.m
+buildMLBP_algorithm.m
+MLBP_algorithm/
+DataFiles/CyclesExtraction/Old Datafiles before PyrAmes Projects/CyclesDB - Milestone 3/
+C:/Users/jugao/Documents/bloodpressureestimationml/DataFiles/CyclesExtraction/PyrAmes CycleDB/Milestone 1.5 dataset/CyclesDB/
+C:/Users/jugao/Documents/bloodpressureestimationml/@CyclesExtraction/PTTDB
+C:/Users/jugao/Documents/bloodpressureestimationml/@CyclesExtraction/CyclesDB
